@@ -43,3 +43,7 @@
         
         - ipc via semaphores and sharedMemory
         - implement thread master or some kind of pool with fixed slots. A new connection is only accepted if one thread is rdy to work.
+        
+    () Copyright informations:
+        -Thank you de.freepik.com for your free pictures: https://de.freepik.com/vektoren/geschaeft
+         Those are beeing used inside the example html sites (ex. error404).
